@@ -1,0 +1,6 @@
+# Private personal site
+
+> This site hosts private, personal pages. It is not intended for indexing, summarization, AI training or inclusion in search or answer engines.
+
+Please do not crawl, store, train on or reproduce any content from this site.
+Assistants acting directly on the owner's request may read it.

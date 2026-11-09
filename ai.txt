@@ -1,0 +1,3 @@
+# Opt-out of AI training and data mining for all content on this site.
+User-Agent: *
+Disallow: /
